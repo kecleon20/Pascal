@@ -1,0 +1,15 @@
+[Project]
+FileName=C:\Users\Thiago\Documents\proyectos pascal\ej10tp5\proyectomanhattan.dp
+Name=proyectomanhattan
+MainUnit=C:\Users\Thiago\Documents\proyectos pascal\ej10tp5\ejecutable3.pas
+UnitCount=1
+ResFiles=C:\Users\Thiago\Documents\proyectos pascal\ej10tp5\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Users\Thiago\Documents\proyectos pascal\ej10tp5\Console.ico
+CompilerOptions=
+IncludeDirs=
+ObjFile=
+[Unit1]
+FileName=C:\Users\Thiago\Documents\proyectos pascal\ej10tp5\ejecutable3.pas
+FileTime=1519824018

@@ -1,0 +1,12 @@
+[Project]
+FileName=C:\Users\Thiago\Documents\proyectos pascal\proyectoemilio\proyectoemilio.dp
+Name=proyectoemilio
+MainUnit=C:\Users\Thiago\Documents\proyectos pascal\proyectoemilio\ejecutablemilio.pas
+UnitCount=1
+ResFiles=C:\Users\Thiago\Documents\proyectos pascal\proyectoemilio\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\bin\Mainicon.ico
+[Unit1]
+FileName=C:\Users\Thiago\Documents\proyectos pascal\proyectoemilio\ejecutablemilio.pas
+FileTime=1519956065

@@ -1,0 +1,15 @@
+[Project]
+FileName=C:\Users\Thiago\Documents\proyectos pascal\ej12tp5\tp5ej12.dp
+Name=tp5ej12
+MainUnit=C:\Users\Thiago\Documents\proyectos pascal\ej12tp5\ejecutable12.pas
+UnitCount=1
+ResFiles=C:\Users\Thiago\Documents\proyectos pascal\ej12tp5\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Users\Thiago\Documents\proyectos pascal\ej12tp5\Console.ico
+CompilerOptions=
+IncludeDirs=
+ObjFile=
+[Unit1]
+FileName=C:\Users\Thiago\Documents\proyectos pascal\ej12tp5\ejecutable12.pas
+FileTime=1519845844
