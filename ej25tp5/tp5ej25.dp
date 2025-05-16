@@ -1,0 +1,15 @@
+[Project]
+FileName=C:\Users\Thiago\Documents\proyectos pascal\ej25tp5\tp5ej25.dp
+Name=tp5ej25
+MainUnit=C:\Users\Thiago\Documents\proyectos pascal\ej25tp5\ejecutable25.pas
+UnitCount=1
+ResFiles=C:\Users\Thiago\Documents\proyectos pascal\ej25tp5\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Users\Thiago\Documents\proyectos pascal\ej25tp5\Console.ico
+CompilerOptions=
+IncludeDirs=
+ObjFile=
+[Unit1]
+FileName=C:\Users\Thiago\Documents\proyectos pascal\ej25tp5\ejecutable25.pas
+FileTime=1521465937
