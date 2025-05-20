@@ -1,0 +1,15 @@
+[Project]
+FileName=C:\Users\Thiago\Documents\proyectos pascal\ej24tp5\proyectoej24ciclos.dp
+Name=proyectoej24ciclos
+MainUnit=C:\Users\Thiago\Documents\proyectos pascal\ej24tp5\ejecutable24.pas
+UnitCount=1
+ResFiles=C:\Users\Thiago\Documents\proyectos pascal\ej24tp5\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Users\Thiago\Documents\proyectos pascal\ej24tp5\Console.ico
+CompilerOptions=
+IncludeDirs=
+ObjFile=
+[Unit1]
+FileName=C:\Users\Thiago\Documents\proyectos pascal\ej24tp5\ejecutable24.pas
+FileTime=1521726664
